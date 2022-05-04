@@ -1,4 +1,4 @@
-# IKEA furniture identifier
+# IKEA Product Identifier
 
 ## Goals
 
