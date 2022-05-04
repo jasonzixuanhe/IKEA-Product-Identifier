@@ -1,0 +1,17 @@
+{
+    "furniture": [
+        {
+            "price": 9090,
+            "name": "Malm",
+            "article number": "12345678",
+            "location": "090102"
+        },
+        {
+            "price": 99.99,
+            "name": "Brimnes",
+            "article number": "13322233",
+            "location": "101010"
+        }
+    ],
+    "name": "Beds"
+}

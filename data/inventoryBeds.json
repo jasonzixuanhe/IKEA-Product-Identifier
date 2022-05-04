@@ -1,0 +1,9 @@
+{
+    "furniture": [{
+        "price": 99.99,
+        "name": "malm",
+        "article number": "12345678",
+        "location": "090909"
+    }],
+    "name": "Beds"
+}
